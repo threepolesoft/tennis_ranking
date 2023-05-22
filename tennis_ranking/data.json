@@ -1,0 +1,112 @@
+﻿[
+	{
+		"img":"Medvedev_Daniil.jpg",
+		"title": "01. Medvedev Daniil",
+		"Country": "Russia",
+		"Height_Weight" : "198 cm / 83 kg",
+		"Age": "26 (11. 2. 1996)",
+		"Current_Highest_rank_singles": "1. / 1.",
+		"Current_Highest_rank_doubles": "400. / 3.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img":"Zverev_Alexander.jpg",
+		"title": "02. Zverev Alexander",
+		"Country": "Germany",
+		"Height_Weight": "198 cm / 90 kg",
+		"Age": "25 (20. 4. 1997)",
+		"Current_Highest_rank_singles": "2. / 2.",
+		"Current_Highest_rank_doubles": "116. / 7.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Nadal_Rafael.jpg",
+		"title":"03. Nadal Rafael",
+		"Country": "Spain",
+		"Height_Weight": "185 cm / 85 kg",
+		"Age": "36 (3. 6. 1986)",
+		"Current_Highest_rank_singles": "3. / 1.",
+		"Current_Highest_rank_doubles": "1087. / 2.",
+		"Sex": "man",
+		"Plays": "left"
+	},
+	{
+		"img": "Tsitsipas_Stefanos.jpg"   ,
+		"title":"04. Tsitsipas Stefanos",
+		"Country": "Greece",
+		"Height_Weight": "193 cm / 89 kg",
+		"Age": "23 (12. 8. 1998)",
+		"Current_Highest_rank_singles": "4. / 3.",
+		"Current_Highest_rank_doubles": "87. / 6.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Ruud_Casper.jpg",
+		"title" : "05. Ruud Casper",
+		"Country": "Norway",
+		"Height_Weight": "183 cm / 77 kg",
+		"Age": "23 (22. 12. 1998)",
+		"Current_Highest_rank_singles": "5. / 5.",
+		"Current_Highest_rank_doubles": "- / 24.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Alcaraz_Carlos.jpg",
+		"title" : "06. Alcaraz Carlos",
+		"Country": "Spain",
+		"Height_Weight": "185 cm / 72 kg",
+		"Age": "19 (5. 5. 2003)",
+		"Current_Highest_rank_singles": "6. / 6.",
+		"Current_Highest_rank_doubles": "545. / 127.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Djokovic_Novak.jpg",
+		"title" : "07. Djokovic Novak",
+		"Country": "Serbia",
+		"Height_Weight": "187 cm / 80 kg",
+		"Age": "35 (22. 5. 1987)",
+		"Current_Highest_rank_singles": "7. / 1.",
+		"Current_Highest_rank_doubles": "541. / 1.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Rublev_Andrey.jpg",
+		"title" : "08. Rublev Andrey",
+		"Country": "Russia",
+		"Height_Weight": "188 cm / 70 kg",
+		"Age": "24 (20. 10. 1997)",
+		"Current_Highest_rank_singles": "8. / 5.",
+		"Current_Highest_rank_doubles": "59. / 8.",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Auger_Aliassime_Felix.jpg",
+		"title" : "09. Auger Aliassime Felix",
+		"Country": "Canada",
+		"Height_Weight": "193 cm / 88 kg",
+		"Age": "21 (8. 8. 2000)",
+		"Current_Highest_rank_singles": "9. / 9",
+		"Current_Highest_rank_doubles": "227. / 19",
+		"Sex": "man",
+		"Plays": "right"
+	},
+	{
+		"img": "Sinner_Jannik.jpg",
+		"title" : "10. Sinner Jannik",
+		"Country": "Italy",
+		"Height_Weight": "188 cm / 76 kg",
+		"Age": "20 (16. 8. 2001)",
+		"Current_Highest_rank_singles": "10. / 9.",
+		"Current_Highest_rank_doubles": "127. / 34.",
+		"Sex": "man",
+		"Plays": "right"
+	}
+]

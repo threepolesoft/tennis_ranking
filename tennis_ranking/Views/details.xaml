@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tennis_ranking.View.details"
+             Title="Tenis Ranking"
+             >
+
+    <StackLayout
+        Orientation="Vertical"
+        >
+
+        <StackLayout>
+            <Image
+                x:Name="_img"
+                Aspect="Fill"
+                HeightRequest="260"
+                WidthRequest="150"
+                />
+
+            <Label
+                x:Name="_title"
+                Margin="10, 0, 0, 0"
+                FontSize="26"
+                TextColor="Black"
+                />
+
+        </StackLayout>
+
+        <ScrollView>
+
+            <StackLayout
+                Orientation="Vertical"
+                >
+
+                <Label
+                    x:Name="_des"
+                    Margin="10"
+                    FontSize="18"
+                    TextColor="Black"
+                />
+
+            </StackLayout>
+        </ScrollView>
+
+    </StackLayout>
+</ContentPage>
